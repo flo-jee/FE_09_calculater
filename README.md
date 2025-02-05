@@ -51,7 +51,7 @@
 아래는 계산기 프로젝트의 실행 화면 예시입니다.  
 프로젝트를 실행하면 다음과 같은 인터페이스를 확인할 수 있습니다.
 
-![계산기 실행 화면](./screenshot.png)
+![Image](https://github.com/user-attachments/assets/1b881362-1450-47b4-a107-fc22ff5a875d)
 
 > **참고:**  
 > `screenshot.png` 파일은 프로젝트 루트 디렉토리에 위치하며, 계산기의 주요 UI를 보여줍니다.  
